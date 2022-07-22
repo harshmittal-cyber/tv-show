@@ -1,3 +1,9 @@
+# Frontend and backend URL
+
+1) `For users: https://techwondoe.web.app`
+2) `For backend api` : `https://techwondoeapi.herokuapp.com`
+
+
 # Docker
 
 1) `Command : docker-compose -f docker-compose.dev.yml up -d --build`
@@ -12,16 +18,6 @@
 
 1) `Service deployed on heroku`
 2) `Procfile is added for production mode`
-
-# Backend API URL
-
-1) `https://techwondoeapi.herokuapp.com`
-
-# For Frontend
-
-# Frontend API
-
-1) `https://techwondoe.web.app`
 
 # Deploy the service
 
