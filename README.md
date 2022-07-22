@@ -1,3 +1,7 @@
+# Docker
+
+1) `Command : docker-compose -f docker-compose.dev.yml up -d --build`
+
 # For backend 
 # tv-shows
 
